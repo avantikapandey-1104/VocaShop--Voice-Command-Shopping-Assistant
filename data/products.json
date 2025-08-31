@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "sku": "AJI0Y6DPBH",
+    "name": "Leather Brown Trouser",
+    "brand": "Nova",
+    "category": "Trousers",
+    "price": 1248,
+    "rating": 3.0,
+    "image": "assets/leather_brown_trouser.webp"
+  },
+  {
+    "id": 2,
+    "sku": "PQK51FPKH1",
+    "name": "Modern Blue Sock",
+    "brand": "Sky",
+    "category": "Socks",
+    "price": 297,
+    "rating": 3.4,
+    "image": "assets/modernbluesocks.jpeg"
+  },
+  {
+    "id": 3,
+    "sku": "V30T9NT3W5",
+    "name": "Comfort Black Saree",
+    "brand": "Aero",
+    "category": "Saree",
+    "price": 192,
+    "rating": 4.2,
+    "image": "assets/comfortblacksaree.webp"
+  },
+  {
+    "id": 4,
+    "sku": "945NQ4FMYZ",
+    "name": "Modern Brown Hoodie",
+    "brand": "Zen",
+    "category": "Hoodies",
+    "price": 1192,
+    "rating": 4.3,
+    "image": "assets/modernbrownhoddie.webp"
+  },
+  {
+    "id": 5,
+    "sku": "QJ7YHL1C32",
+    "name": "White Sandal",
+    "brand": "Aero",
+    "category": "Sandals",
+    "price": 531,
+    "rating": 4.8,
+    "image": "assets/cottonwhitesandal.webp"
+  },
+  {
+    "id": 6,
+    "sku": "5LXO6QJIUJ",
+    "name": "Comfort Pink Belt",
+    "brand": "Edge",
+    "category": "Belts",
+    "price": 916,
+    "rating": 3.4,
+    "image": "assets/comfortpinkbelt.jpeg"
+  },
+  {
+    "id": 7,
+    "sku": "SDBDW2PCN9",
+    "name": "Leather White Shoe",
+    "brand": "Pulse",
+    "category": "Shoes",
+    "price": 1861,
+    "rating": 4.9,
+    "image": "assets/leatherwhiteshoe.jpeg"
+  },
+  {
+    "id": 8,
+    "sku": "YTJXEPQ85J",
+    "name": "Leather Green Trouser",
+    "brand": "Pulse",
+    "category": "Trousers",
+    "price": 1968,
+    "rating": 2.8,
+    "image": "assets/leathergreentrouser.jpeg"
+  },
+  {
+    "id": 9,
+    "sku": "4SHNF877VR",
+    "name": "Modern Grey Hoodie",
+    "brand": "Urban",
+    "category": "Hoodies",
+    "price": 589,
+    "rating": 2.6,
+    "image": "assets/moderngreyhoddie.jpeg"
+  },
+  {
+    "id": 10,
+    "sku": "8DRC11ERTJ",
+    "name": "Comfort Pink Belt",
+    "brand": "Prime",
+    "category": "Belts",
+    "price": 1203,
+    "rating": 4.4,
+    "image": "assets/comfortpinkbelt2.jpeg"
+  },
+  {
+    "id": 11,
+    "sku": "ZOYN6QICAT",
+    "name": "Comfort Black Watch",
+    "brand": "Nova",
+    "category": "Watches",
+    "price": 244,
+    "rating": 4.3,
+    "image": "assets/comfortblackwatch.webp"
+  },
+  {
+    "id": 12,
+    "sku": "I64CIYHE7U",
+    "name": "Black T-Shirt",
+    "brand": "Vista",
+    "category": "T-Shirts",
+    "price": 1752,
+    "rating": 3.5,
+    "image": "assets/blacktsirt.jpeg"
+  },
+  {
+    "id": 13,
+    "sku": "DPPQ0Y9DOM",
+    "name": "Modern Black Trouser",
+    "brand": "Prime",
+    "category": "Trousers",
+    "price": 488,
+    "rating": 3.8,
+    "image": "assets/modernblacktrouser.webp"
+  },
+  {
+    "id": 14,
+    "sku": "PKI7P5TB94",
+    "name": "Modern Black Shoe",
+    "brand": "Zen",
+    "category": "Shoes",
+    "price": 931,
+    "rating": 3.7,
+    "image": "assets/modernblackshoe.webp"
+  },
+  {
+    "id": 15,
+    "sku": "56FAO72KZ0",
+    "name": "Leather Brown  Watch",
+    "brand": "Zen",
+    "category": "Watches",
+    "price": 487,
+    "rating": 3.2,
+    "image": "assets/leatherbrownwatch.jpeg"
+  },
+  {
+    "id": 16,
+    "sku": "UT0CVS4F8C",
+    "name": "Slim Blue T-Shirt",
+    "brand": "Edge",
+    "category": "T-Shirts",
+    "price": 238,
+    "rating": 4.2,
+    "image": "assets/slimbluetsirt.jpeg"
+  },
+  {
+    "id": 17,
+    "sku": "O7UUBCXULJ",
+    "name": "Sport Black Bag",
+    "brand": "Urban",
+    "category": "Bags",
+    "price": 909,
+    "rating": 2.8,
+    "image": "assets/sportblackbag.webp"
+  },
+  {
+    "id": 18,
+    "sku": "Q77AWUDTSE",
+    "name": "Sport Blue Hoodie",
+    "brand": "Prime",
+    "category": "Hoodies",
+    "price": 855,
+    "rating": 3.2,
+    "image": "assets/sportbluehoodie.webp"
+  },
+  {
+    "id": 19,
+    "sku": "4ZW9XA3KX7",
+    "name": "Slim White Short",
+    "brand": "Aero",
+    "category": "Shorts",
+    "price": 1921,
+    "rating": 2.8,
+    "image": "assets/slimwhiteshorts.jpeg"
+  },
+  {
+    "id": 20,
+    "sku": "FKHMY4SJ6B",
+    "name": "Cotton White Sock",
+    "brand": "Nova",
+    "category": "Socks",
+    "price": 106,
+    "rating": 3.3,
+    "image": "assets/cottonwhitesocks.jpeg"
+  },
+  {
+    "id": 21,
+    "sku": "WJ0TPAC56T",
+    "name": "Sport Brown Shoe",
+    "brand": "Pulse",
+    "category": "Shoes",
+    "price": 402,
+    "rating": 3.6,
+    "image": "assets/sportsblackshoes.jpeg"
+  },
+  {
+    "id": 22,
+    "sku": "L6246HID25",
+    "name": "Cotton Red Saree",
+    "brand": "Zen",
+    "category": "Saree",
+    "price": 1994,
+    "rating": 4.8,
+    "image": "assets/cottonredsaree.webp"
+  },
+  {
+    "id": 23,
+    "sku": "935A0L7253",
+    "name": "Premium Black Sandal",
+    "brand": "Aero",
+    "category": "Sandals",
+    "price": 882,
+    "rating": 4.7,
+    "image": "assets/blacksandals.webp"
+  },
+  {
+    "id": 24,
+    "sku": "I3QK2IAGL5",
+    "name": "Woman White Shoes",
+    "brand": "Pulse",
+    "category": "Shoes",
+    "price": 917,
+    "rating": 4.2,
+    "image": "assets/whiteshoeswoman.webp"
+  },
+  {
+    "id": 25,
+    "sku": "LA5JU9BVM2",
+    "name": "Woman top",
+    "brand": "Pulse",
+    "category": "Woman Top",
+    "price": 335,
+    "rating": 3.5,
+    "image": "assets/womantop.webp"
+  }
+     
+]

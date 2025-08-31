@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Voice Shopping Assistant</title>
+  <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+  <header class="header">
+    <div class="logo">🛒 ShopAZ</div>
+    <div class="search">
+      <input id="searchInput" type="text" placeholder="Search products (e.g., shirt, shoes)"/>
+      <button id="searchBtn">Search</button>
+    </div>
+    <div class="controls">
+      <select id="categoryFilter">
+        <option value="">All Categories</option>
+      </select>
+      <select id="sortSelect">
+        <option value="">Sort</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+        <option value="rating-desc">Rating: High to Low</option>
+      </select>
+      <button id="micBtn" class="mic" title="Click and speak your command"><img src="mic.png" style="width:30px; height:30px;"></button>
+    </div>
+    <div class="language-select">
+    <label for="language"><b>Choose Language:</b></label>
+     <select id="language">
+      <option value="en-US">English</option>
+      <option value="hi-IN">Hindi</option>
+  </select>
+</div>
+    <div class="assistant-status" id="assistantStatus"><h3>Assistant: idle</h3></div>
+  </header>
+  <main class="container">
+  <button id="toggleSidebarBtn" aria-label="Toggle Cart Sidebar" style="display:none; position: fixed; top: 10px; left: 10px; z-index: 1000; padding: 10px; border-radius: 8px; border: none; background-color: #111; color: white; cursor: pointer;">☰ Cart</button>
+  <aside class="sidebar">
+      <h2>Cart</h2>
+      <ul id="cartList" class="cart-list"></ul>
+      <div class="cart-total">Total: ₹<span id="cartTotal">0</span></div>
+      <div class="cart-actions">
+        <button id="showCartBtn">Show Cart</button>
+        <button id="clearCartBtn" class="danger">Clear Cart</button>
+      </div>
+      <br>
+      <br>
+      <div class="help">
+        <h3>Try saying:</h3>
+        <ul>
+          <li>“add brown trouser”</li>
+          <li>“I want to buy black T-shirt”</li>
+          <li>“remove trouser”</li>
+          <li>“Show me brown shoes”</li>
+          <li>“give me 2 brown trouser”</li>
+          <li>“sort by price low to high”</li>
+          <li>“give me green trouser of Pulse”</li>
+          <li>“clear the cart”</li>
+        </ul>
+      </div>
+      <br>
+      <br>
+      <div id="smart-suggestions"></div>
+    </aside>
+  <section class="grid" id="productGrid"></section>
+  </main>
+  <footer class="footer">
+    <span>© 2025 ShopEZ • Voice-enabled demo (works offline)</span>
+  </footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
