@@ -27,6 +27,7 @@ NLP (Optional): Compromise.js
 
 
 📂 Project Structure
+
 <img width="642" height="211" alt="image" src="https://github.com/user-attachments/assets/28fe25ca-ab5d-4088-b146-0651dbc09292" />
 
 🎤 Example Voice Commands
